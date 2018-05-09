@@ -1,12 +1,12 @@
 {
-  "name": new game
-  "version": 0.0.0.1
-  "homepage": https://github.com/ModdedGamers/new-testing-game/"
+  "name": "new game"
+  "version": "0.0.0.1"
+  "homepage": "https://github.com/ModdedGamers/new-testing-game/"
   "author": {
-  Modded Gamers
+  "Modded Gamers"
 }  
 "engines": {
-  "node": >=10.0.0
+  "node": >="10.0.0"
 }
 "devDependencies": {
     "grunt": "~1.0.2",
