@@ -1,17 +1,17 @@
 {
   "name": "new game"
-  "version": "0.1.0.1"
-  "homepage": "https://github.com/ModdedGamers/new-testing-game/"
-  "author": {
+  "version" "0.1.0.1"
+  "homepage" "https://github.com/ModdedGamers/new-testing-game/"
+  "author" {
   "Modded Gamers"
 }  
-"engines": {
-  "node": ">= 10.0.0"
+"engines" {
+  "node" ">= 10.0.0"
 }
-"devDependencies": {
-    "grunt": "~1.0.2",
-    "grunt-contrib-concat": "~1.0.1",
-    "grunt-contrib-uglify": "~3.3.0"
+"devDependencies" {
+    "grunt" "~1.0.2",
+    "grunt-contrib-concat" "~1.0.1",
+    "grunt-contrib-uglify" "~3.3.0"
   }
 }
 
