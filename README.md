@@ -1,4 +1,5 @@
 # new-testing-game
-A game to help me learn coding
+[![Depfu](https://badges.depfu.com/badges/4214dc660092e393511135cba7ba2db4/overview.svg)](https://depfu.com/github/ModdedGamers/Generic_Game?project_id=7972)
+[![BCH compliance](https://bettercodehub.com/edge/badge/ModdedGamers/Generic_Game?branch=master)](https://bettercodehub.com/)
 
-IF YOU WANT TO HELP AND NOT HAVE YOUR CHANGES CHECKED BY ME, CONTACT ME!
+Welcome. We have been expecting you.
