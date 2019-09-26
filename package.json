@@ -1,7 +1,7 @@
 {
   "name": "new-game",
   "version": "0.0.1",
-  "homepage": "https://github.com/ModdedGamers/new-testing-game/",
+  "homepage": "https://github.com/ModdedGamers/Generic_Game/",
   "author": "Modded Gamers",
   "engines": {
     "node": ">= 10.0.0"
