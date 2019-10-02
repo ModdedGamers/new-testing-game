@@ -7,8 +7,7 @@
     "node": ">= 10.0.0"
   },
   "devDependencies": {
-    "grunt": "~1.0.2",
-    "grunt-contrib-concat": "~1.0.1",
-    "grunt-contrib-uglify": "~4.0.0"
+    "gulp": ">=4.0.2",
+    "
   }
 }
