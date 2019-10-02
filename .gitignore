@@ -56,3 +56,6 @@ typings/
 
 # dotenv environment variables file
 .env
+
+# IntelliJ Idea and other config directories(for tools like Webstorm, PhpStorm, etc.)
+.idea
