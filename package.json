@@ -1,17 +1,24 @@
 {
-  "name": "Generic_Game",
+  "name": "generic_game",
   "version": "0.0.2",
-  "homepage": "https://github.com/ModdedGamers/Generic_Game/",
-  "author": "Modded Gamers",
-  "engines": {
-    "node": ">= 10.0.0"
+  "description": "A completely generic game.",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "devDependencies": {
-    "gulp": ">=4.0.2",
-    "electron: ">=7.0.0-beta.5",
-    
-  }
-  "dependencies": {
-    "
-  }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ModdedGamers/Generic_Game.git"
+  },
+  "keywords": [
+    "game",
+    "generic",
+    "electron"
+  ],
+  "author": "mrHedgehog <agrhedgehog@gmail.com>",
+  "license": " The Unlicense",
+  "bugs": {
+    "url": "https://github.com/ModdedGamers/Generic_Game/issues"
+  },
+  "homepage": "https://github.com/ModdedGamers/Generic_Game#readme"
 }
