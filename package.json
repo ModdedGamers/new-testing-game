@@ -1,6 +1,6 @@
 {
   "name": "generic_game",
-  "version": "0.0.4",
+  "version": "0.0.3",
   "description": "A completely generic game.",
   "main": "game.js",
   "scripts": {
